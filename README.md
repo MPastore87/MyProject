@@ -1,1 +1,1 @@
-# MyProject
+This is a trial project.
